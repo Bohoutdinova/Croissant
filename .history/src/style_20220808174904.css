@@ -1,0 +1,16 @@
+body {
+  background-color: bisque;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+.container {
+  text-align: center;
+  margin: 10;
+}
+a {
+  padding: 20;
+}

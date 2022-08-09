@@ -1,0 +1,26 @@
+body {
+  background-color: bisque;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+.container {
+  text-align: center;
+  margin: 10px auto;
+}
+.main-link {
+  padding: 10px;
+  color: #f98654;
+}
+img {
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+.main-info {
+  padding: 10px;
+  margin: 10px;
+}
