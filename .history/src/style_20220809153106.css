@@ -7,15 +7,15 @@ h1 {
 p {
   text-align: center;
 }
-
+.container {
+  text-align: center;
+  margin: 10px auto;
+}
 .main-link {
   padding: 10px;
   color: #f98654;
-}
-.main-footer {
-  display: block;
-  margin: 10px auto;
   text-align: center;
+  margin: 10px auto;
 }
 img {
   border-radius: 10px;
